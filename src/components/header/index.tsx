@@ -12,7 +12,7 @@ const Header = () => (
         </li>
         <li>
           <Link to='/todoApp'>
-            Todo
+            Todo App
           </Link>
         </li>
       </ul>
